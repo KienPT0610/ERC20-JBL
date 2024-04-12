@@ -1,0 +1,56 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "account",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"JBL_flattened.sol": "Ownable"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"JBL_flattened.sol": {
+			"keccak256": "0x386d887f36473bf1005d5ee4e528dcf59f2d6fc167c16bedffa8f4b640bd678f",
+			"urls": [
+				"bzz-raw://019ddff375bbf267befdcd9525052cffed0c84b16ba4e05fe47faafff926bfbd",
+				"dweb:/ipfs/QmQ88Fg9DbxaqGaHAfT1pAkBKoWZwPfqMweNd1Ku3MrWyx"
+			]
+		}
+	},
+	"version": 1
+}
